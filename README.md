@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Project
 Here is my 1st project which shows the details about Employee Retention releted to HR Domain. The data used in this project includes 2 excel files with 50k plus records each.
 Tools used- EXCEL for data cleaning, MYSQL for analyzing data and TABLEAU and Power BI for visualization in this project.
 Power BI Dashboard:
